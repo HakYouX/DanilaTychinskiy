@@ -7,7 +7,7 @@ Developer Python, С++
 I was engaged in writing codes in the C++ language, and later switched to the Python programming language.
 
 * 🌍  I'm based in Russia
-* ✉️  You can contact me at [mirav2326@mail.ru](mailto:mirav2326@mail.ru)
+* ✉️  You can contact me at [mirav2326@mail.ru](mailto:mirav2326@gmail.com)
 * 🧠  I'm learning Data Scientist
 * 🤝  I'm open to collaborating on C++, Python
 * ⚡  Interested in working with Artificial Intelligence and its subsequent development.
