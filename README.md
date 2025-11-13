@@ -5,7 +5,6 @@
 ## 🚀 Data Scientist | 🤖 AI Developer | 📊 ML Engineer
 
 **Создаю интеллектуальные системы и анализирую данные**
-
 ## 📄 Резюме
 [![View Online](https://img.shields.io/badge/👀_Посмотреть_онлайн-blue?style=for-the-badge)](Rezume.pdf)
 
