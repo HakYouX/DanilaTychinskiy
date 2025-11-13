@@ -1,8 +1,7 @@
 # Данила Тычинский | Data Scientist
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourprofile)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/HackYouFak)
 📍 Россия
 
 ---
@@ -76,6 +75,6 @@ Data Scientist с фокусом на машинное обучение и ан�
 ## 📞 Контакты
 
 - **Email:** mirav2326@mail.ru
-- **Telegram:** [@HackYouFak]([https://t.me/your_username](https://t.me/HackYouFak))
+- **Telegram:** [@HackYouFak](https://t.me/HackYouFak])
 
 ⚡ **Готов к интересным проектам в области Data Science и Machine Learning!**
