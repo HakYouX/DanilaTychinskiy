@@ -6,15 +6,11 @@
 
 **Создаю интеллектуальные системы и анализирую данные**
 
-[![Email](https://img.shields.io/badge/-Email-mirav2326@mail.ru-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-@HackYouFak-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/HackYouFak)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/HackYouFak)
 [![Location](https://img.shields.io/badge/-📍_Russia-0D1117?style=flat)]()
 
 </div>
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/HackYouFak)
-📍 Россия
 
 ---
 
