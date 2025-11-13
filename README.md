@@ -66,11 +66,11 @@ Data Scientist с фокусом на машинное обучение и ан�
 **Курсы и сертификаты:**
 - [Machine Learning, Data Science] - [THE FOUNDER] (2024-2025)
 
-## 📊 Статистика GitHub
+## 📈 Активность разработки
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilaTychinskiy&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaTychinskiy&layout=compact&theme=radical)
+💻 **Работаю над:** 2 активными проектами  
+📚 **Изучаю:** Python, AI библиотеки, финансовые алгоритмы  
+🚀 **Планирую:** Добавить web-интерфейс к торговому боту
 
 ## 📞 Контакты
 
