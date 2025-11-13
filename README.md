@@ -1,11 +1,8 @@
 # Данила Тычинский 
 
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Привет!+👋;Меня+зовут+Данила+Тычинский&center=true&size=24&color=00C2FF)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🚀+Data+Scientist;🤖+AI+Developer;📊+ML+Engineer&center=true&size=22&color=F7931E)
 
 </div>
 
