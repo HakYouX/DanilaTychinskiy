@@ -5,12 +5,12 @@
 ## 🚀 Data Scientist | 🤖 AI Developer | 📊 ML Engineer
 
 **Создаю интеллектуальные системы и анализирую данные**
-## 📄 Резюме
-[![View Online](https://img.shields.io/badge/👀_Посмотреть_онлайн-blue?style=for-the-badge)](Rezume.pdf)
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/HackYouFak)
-[![Location](https://img.shields.io/badge/-📍_Russia-0D1117?style=flat)]()
+[![Resume PDF](https://img.shields.io/badge/📄_Резюме_PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Rezume.pdf)
+[![Email](https://img.shields.io/badge/📧_Email-mirav2326@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
+[![Telegram](https://img.shields.io/badge/💬_Telegram-@HackYouFak-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HackYouFak)
+
+📍 Россия
 
 </div>
 
