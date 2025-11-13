@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Привет!+👋;Я+Данила+Тычинский;Data+Scientist+🤖&center=true&size=24)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Привет!+👋;Я+Данила+И+Я;Data+Scientist+🤖&center=true&size=24)
 
 ## 🚀 Data Scientist | 🤖 AI Developer | 📊 ML Engineer
 
