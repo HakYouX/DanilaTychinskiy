@@ -1,25 +1,87 @@
-Hi 👋 My name is Danyla Tychinskiy
-==================================
+# Данила Тычинский | Data Scientist
 
-Developer Python, С++
----------------------
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirav2326@mail.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourprofile)
+📍 Россия
 
-I was engaged in writing codes in the C++ language, and later switched to the Python programming language.
+---
 
-* 🌍  I'm based in Russia
-* ✉️  You can contact me at [mirav2326@mail.ru](mailto:mirav2326@gmail.com)
-* 🧠  I'm learning Data Scientist
-* 🤝  I'm open to collaborating on C++, Python
-* ⚡  Interested in working with Artificial Intelligence and its subsequent development.
+## 👨‍💻 Обо мне
 
-### Skills
+Data Scientist с фокусом на машинное обучение и анализ данных. Имею опыт в разработке end-to-end проектов: от сбора и обработки данных до построения и развертывания ML-моделей. Особый интерес вызывают задачи в области компьютерного зрения, NLP и предиктивной аналитики.
 
+**Ключевые компетенции:**
+- Глубокий анализ данных и выявление инсайтов
+- Построение и валидация ML-моделей
+- Визуализация данных и создание дашбордов
+- Оптимизация и улучшение существующих решений
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-</p>
+## 🛠️ Технологический стек
 
+**Программирование:**
+- **Python** - основной язык разработки
 
-### Socials
+**Data Science & ML:**
+- **Анализ данных:** Pandas, NumPy, SciPy
+- **Визуализация:** Matplotlib, Seaborn, Plotly
+- **Машинное обучение:** Scikit-learn, XGBoost, LightGBM
+- **Глубокое обучение:** TensorFlow/Keras, PyTorch
+- **Обработка текста:** NLTK, SpaCy
 
-<p align="left"> <a href="https://www.github.com/Danila Tychinskiy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+**Инструменты и платформы:**
+- **Базы данных:** SQL, PostgreSQL
+- **Разработка:** Git, Docker, Jupyter Notebook
+- **Облачные платформы:** Google Cloud Platform, Heroku
+- **MLOps:** MLflow, DVC
+
+## 📂 Проекты
+
+### [Прогнозирование оттока клиентов](https://github.com/yourusername/churn-prediction)
+*Система предсказания ухода клиентов для телеком-компании*
+- **Задача:** Снизить отток клиентов на 15% через проактивное удержание
+- **Решение:** Провел EDA, feature engineering, обучил ансамбль моделей (RandomForest + XGBoost)
+- **Стек:** Python, Pandas, Scikit-learn, XGBoost, Matplotlib
+- **Результат:** Модель достигла Precision@80%Recall = 0.85, выявлены ключевые факторы оттока
+
+### [Классификация текстовых сообщений](https://github.com/yourusername/text-classification)
+*ML-модель для автоматической категоризации пользовательских обращений*
+- **Задача:** Автоматизировать ручную сортировку обращений в службу поддержки
+- **Решение:** Применил TF-IDF и Word2Vec для векторизации текста, сравнил несколько классификаторов
+- **Стек:** Python, NLTK, Scikit-learn, Pandas
+- **Результат:** Точность классификации - 92%, время обработки сокращено в 5 раз
+
+### [Анализ рынка недвижимости](https://github.com/yourusername/real-estate-analysis)
+*Дашборд и ML-модель для предсказания стоимости квартир*
+- **Задача:** Создать инструмент для анализа ценовой динамики и прогнозирования стоимости
+- **Решение:** Построил интерактивный дашборд, обучил регрессионную модель на исторических данных
+- **Стек:** Python, Plotly, Dash, Scikit-learn, PostgreSQL
+- **Результат:** R² = 0.89, дашборд развернут на Heroku
+
+### [Детекция объектов на изображениях](https://github.com/yourusername/object-detection)
+*Модель компьютерного зрения для распознавания товаров на полках*
+- **Задача:** Автоматизировать учет товаров в розничной сети
+- **Решение:** Обучил YOLO-модель на размеченном датасете, реализовал API для инференса
+- **Стек:** Python, TensorFlow, OpenCV, Flask
+- **Результат:** mAP@0.5 = 0.78, скорость обработки - 15 кадров/сек
+
+## 🎓 Образование и сертификаты
+
+**Высшее образование:**
+- [МЭИ], Факультет [Информационные технологии], Специальность [Вычислительная техника и разработка тех процессов] (2022-2025)
+
+**Курсы и сертификаты:**
+- [Machine Learning, Data Science] - [THE FOUNDER] (2024-2025)
+
+## 📊 Статистика GitHub
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilaTychinskiy&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaTychinskiy&layout=compact&theme=radical)
+
+## 📞 Контакты
+
+- **Email:** mirav2326@mail.ru
+- **Telegram:** [@HackYouFak]([https://t.me/your_username](https://t.me/HackYouFak))
+
+⚡ **Готов к интересным проектам в области Data Science и Machine Learning!**
