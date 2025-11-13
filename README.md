@@ -1,33 +1,7 @@
 # Данила Тычинский | Data Scientist
 
-<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Привет!+👋;Я+Данила+Тычинский;Data+Scientist+🤖&center=true&size=24)
-
-```
-class DataScientist:
-    def __init__(self):
-        self.name = "Данила Тычинский"
-        self.role = "Data Scientist"
-        self.focus = "AI Development & Machine Learning"
-        self.projects = 2
-        self.status = "🚀 Open to collaborations"
-    
-    def get_skills(self):
-        return ["Python", "ML", "Data Analysis", "AI"]
-    
-me = DataScientist()
-print(f"{me.name} | {me.role}")
-
-https://img.shields.io/badge/-mirav2326@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/-@HackYouFak-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-https://img.shields.io/badge/%F0%9F%93%81_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white
-
-</div>
-```
-
-
-
 
 
 # Данила Тычинский 
